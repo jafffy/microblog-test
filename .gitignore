@@ -1,5 +1,9 @@
 # exclude flask folder(virtualenv)
-flask/
+flask
 
 # exclude python compiled file(*.pyc)
 *.pyc
+*.pyo
+
+app.db
+search.db
